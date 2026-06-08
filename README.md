@@ -1,2 +1,8 @@
-# imdb-sentiment-analysis
-A Machine Learning based NLP project that classifies IMDB movie reviews as positive or negative using TF-IDF and Logistic Regression.
+
+# IMDB Sentiment Analysis
+
+NLP-based sentiment analysis project using TF-IDF and Logistic Regression.
+
+## Run
+
+streamlit run app.py
